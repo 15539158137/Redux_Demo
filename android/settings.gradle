@@ -1,0 +1,3 @@
+rootProject.name = 'Redux_Demo'
+
+include ':app'
